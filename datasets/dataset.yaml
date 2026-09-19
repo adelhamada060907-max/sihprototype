@@ -1,0 +1,11 @@
+# AquaGuard AI - Side Scan Sonar Dataset Config
+path: C:\Users\syeda\oceanguard\datasets
+train: images/train
+val: images/val
+
+names:
+  0: ghost_net
+  1: shipwreck
+  2: pipe
+  3: cylinder
+  4: underwater_debris
